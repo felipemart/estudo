@@ -1,0 +1,12 @@
+ersion: 2
+
+sources:
+  - name: sources
+    schema: public
+    tables:
+      - name: 'clientes'
+      - name: 'fornecedores'
+      - name: 'produtos'
+      - name: 'lojas'
+      - name: 'vendas'
+      - name: 'vendas_itens'
